@@ -16,3 +16,5 @@ we succeeded in developing a model that suggests personal recommendations
 to customers using different classification algorithms. Our technique generated
 good results with a high average probability of purchasing the next product
 suggested by the recommendation system.
+![Screenshot 2025-03-29 164744](https://github.com/user-attachments/assets/68fbee8d-7d1d-4f02-91e2-758966199ad8)
+
